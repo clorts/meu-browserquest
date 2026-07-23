@@ -1,14 +1,10 @@
 {
-    "name": "BrowserQuest"
-  , "version": "0.0.1"
-  , "private": false 
-  , "dependencies": {
-    "underscore": ">0"
-    , "log": ">0"
-    , "bison": ">0"
-    , "websocket": ">0"
-    , "websocket-server": ">0"
-    , "sanitizer": ">0"
-    , "memcache": ">0"
+  "name": "browserquest",
+  "version": "0.1.0",
+  "dependencies": {
+    "express": "^2.5.11",
+    "websocket": "^1.0.34",
+    "underscore": "^1.13.6",
+    "sanitizer": "^0.1.3"
   }
 }
